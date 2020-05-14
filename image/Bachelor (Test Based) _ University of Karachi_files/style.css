@@ -1,0 +1,997 @@
+.container {
+
+    padding-top: 30px;
+
+    width: 1024px;
+
+    border: 5px solid #000;
+}
+
+aside {
+
+    float: left;
+
+    width: 10%;
+
+    color: #fff;
+
+}
+
+
+
+aside .logo{
+
+    margin-bottom: 16px;
+
+    text-align: center;
+
+}
+
+aside .logo img{
+
+    width: 75%;
+
+}
+
+aside .bar {
+
+    background-color: #C29F43;
+    color: #000;
+
+    position: relative;
+
+    height: 1381px;
+
+}
+
+aside .bar h1{
+
+    font-family: sans-serif;
+
+    transform: scale(1.4, 2);
+
+}
+
+aside .bar .main_heading{
+
+    top: 440px;
+
+    left: -493px;
+
+    text-align: center;
+
+    font-size: 34px;
+
+    transform: rotate(-90deg);
+
+    line-height: 2;
+
+    width: 1093px;
+
+    position: absolute;
+
+}
+
+aside .bar .sub_heading{
+
+    text-align: center;
+
+    font-size: 24px;
+
+    transform: rotate(-90deg);
+
+    line-height: 1.1;
+
+    width: 470px;
+
+    position: absolute;
+
+    bottom: 219px;
+
+    left: -185px;
+
+    font-weight: bold;
+
+    right: 0;
+
+}
+
+aside .bar .sub_heading p{
+
+    transform: scale(1, 1.3);
+
+}
+
+.content {
+
+    margin-left: 10px;
+
+    float: left;
+
+    width: 89%
+
+}
+
+
+
+.top h1 {
+
+    font-size: 30px;
+
+    margin-left: 313px;
+
+    margin-bottom: 5px;
+
+}
+
+
+
+.top .form-1 {
+
+    position: absolute;
+
+    top: 114px;
+
+
+
+}
+
+.top .form-2 {
+
+   position: relative;
+
+   top: 90px;
+
+   right: 105px;
+
+   float: right;
+
+}
+
+.top .corruption {
+
+    text-align: center;
+
+}
+
+.top .instruction {
+
+    border: 1px solid #000;
+
+    border-radius: 9px;
+
+    width: 380px;
+
+    padding: 5px;
+
+    position: absolute;
+
+    margin-top: 40px;
+
+}
+
+.instruction h3 {
+
+    float: left;
+
+    width: 86px;
+
+    display: block;
+
+}
+
+.text-instruction {
+
+    float: left;
+
+}
+
+.box {
+
+    font-size: 20px;
+
+    margin-left: 295px;
+
+    width: 313px;
+
+    background-color: #C29F43;
+
+    color: #000;
+
+    height: 76px;
+
+}
+
+.box h3{
+
+    margin-bottom: 5px;
+
+}
+
+
+
+.box .evening {
+
+    margin-left: 26px;
+
+}
+
+
+.box .addmission {
+
+    margin-left: 43px;
+
+}
+
+
+
+.picture {
+
+    border: 1px solid #000;
+
+    width: 136px;
+
+    height: 160px;
+
+    float: right;
+
+    position: relative;
+
+    bottom: 0px;
+
+    left: -55px;
+
+    right: 0;
+
+}
+
+.picture img{
+
+    width: 95%;
+
+    opacity: 0.3;
+
+}
+
+
+
+.top .category {
+
+    position: relative;
+
+    top: 55px;
+
+    left: 30px;
+
+}
+
+.top .tick {
+
+    margin-top: 10px;
+
+    display: inline-block;
+
+    margin-right: 15px;
+
+}
+
+.top .tickbox {
+
+    margin-right: 70px;
+
+    width: 19px;
+
+    border: 1px solid #000;
+
+    font-size: 22px;
+
+    text-align: center;
+
+    display: inline-block;
+
+}
+
+.top .applying {
+
+    position: absolute;
+
+    width: 705px;
+
+    top: 271px;
+
+}
+
+.top .applying .for_admission {
+
+    width: 208px;
+
+    border: 1px solid #000;
+
+    padding: 7px;
+
+    display: inline-block;
+
+}
+
+
+
+.top .applying .for_admission p{
+
+    display: inline;
+
+}
+
+.top .applying .for_admission p.select_program{
+
+    display: block;
+
+    margin: 5px 0;
+
+}
+
+.top .applying .for_admission .checkbox {
+
+    border: 1px solid #000;
+
+    display: inline-block;
+
+    width: 15px;
+
+}
+
+.top .applying .for_admission .checkbox-2{
+
+    margin-right: 10px;
+
+}
+
+.top .applying .change_category > div{
+
+    margin-bottom: 5px;
+
+}
+
+.top .applying .change_category {
+
+    width: 425px;
+
+    display: inline-block;
+
+    margin-left: 27px;
+
+}
+
+.top .applying .change_category p {
+
+    display: inline-block;
+
+    width: 305px;
+
+}
+
+.top .applying .change_category p span{
+
+    font-size: 14px;
+
+}
+
+
+
+.top .yes-no{
+
+    display: inline-flex;
+
+    text-align: center;
+
+}
+
+.top .yes-no > div{
+
+    width: 40px;
+
+}
+
+.top .yes-no div {
+
+    border: 1px solid #000;
+
+    display: inline-block;
+
+    font-size: 18px;
+
+    padding: 3px;
+
+    margin-bottom: 5px;
+
+}
+
+.information, .previous_record, .main-department, .declaration {
+
+    display: block;
+
+    position: relative;
+
+    top: 58px;
+
+}
+
+.information .information-fields {
+
+    margin-bottom: 10px;
+
+}
+
+.information .information-fields p span{
+
+    border-bottom: 1px solid #000;
+
+    display: inline-block;
+
+}
+
+
+
+.information .information-fields p span.name{
+
+    width: 81%;
+    font-size: 22px;
+}
+.information .information-fields p span.fname{
+
+    width: 85%;
+
+}
+
+.information .information-fields p span.address{
+
+    width: 74%;
+
+}
+
+.information .information-fields p span.email{
+
+    width: 38%;
+
+}
+
+.information .information-fields p span.mobile{
+
+    width: 30%;
+
+}
+
+.information .information-fields p span.passed{
+
+    width: 40%;
+
+}
+
+.information .information-fields p span.year{
+
+    width: 8%;
+
+}
+
+.information .information-fields p span.roll{
+
+    width: 12%;
+
+}
+
+.information .information-fields p span.obtained{
+
+    width: 23.4%;
+
+}
+
+.information .information-fields p span.institute{
+
+    width: 73%;
+
+}
+
+.previous_record {
+    width: 936px !important;
+}
+
+.information .information-fields .note {
+
+    font-size: 12px;
+
+    letter-spacing: -0.5px;
+
+}
+
+.information .boxes {
+
+    text-align: center;
+
+    display: flex;
+
+    margin-bottom: 5px;
+
+}
+
+.information .boxes .gender{
+
+    width: 15%;
+
+    display: inline-block;
+
+}
+
+.information .boxes .nic{
+
+    width: 40%;
+
+    display: inline-block;
+
+}
+
+.information .boxes .parent_nic{
+
+    width: 40%;
+
+    display: inline-block;
+
+}
+
+.information .boxes .gender span{
+
+    display: inherit;
+
+}
+
+
+
+.information .boxes .gender .male-female{
+
+    display: inline-flex;
+
+}
+
+.information .boxes .parent_nic span.note{
+
+    font-size: 12px;
+
+    letter-spacing: -0.5px;
+
+}
+
+.information .boxes .gender .male-female > div{
+
+    border: 1px solid #000;
+
+    padding: 3px;
+
+    margin-left: -1px;
+
+}
+
+.information .boxes .nic .nic_no > div, .information .boxes .parent_nic .nic_no > div{
+
+    border: 1px solid #000;
+
+    padding: 1px;
+
+    display: inline-block;
+
+    width: 17px;
+
+    margin-right: -5px;
+
+    /*height: 20px;*/
+
+}
+
+.information .record {
+
+    margin-bottom: 5px;
+
+}
+
+
+
+.previous_record table {
+
+    border-collapse: collapse;
+
+    width: 97%;
+
+}
+
+.previous_record table th:nth-child(3) {
+
+    width: 105px;
+
+}
+
+
+
+.office_use table {
+
+    border-collapse: collapse;
+
+    width: 20%;
+
+}
+
+
+
+.previous_record table td, .previous_record table th, .office_use table th, .office_use table td {
+
+    border: 1px solid #000;
+
+    padding: 8px;
+
+    text-align: center;
+
+    height: 38px;
+    vertical-align: middle;
+}
+
+.previous_record table td {
+
+    text-align: left;
+
+}
+
+.previous_record table td span {
+
+    font-size: 13px;
+
+    margin-left: 5px;
+
+}
+.previous_record table td.centered{
+    text-align: center;
+}
+
+
+.main-department {
+
+    margin-top: 10px;
+
+}
+
+.main-department > p.head-p {
+
+}
+
+.main-department .department {
+
+    float: left;
+
+    width: 100%;
+
+    margin-top: 15px;
+
+}
+
+.main-department .department .underline{
+
+    border-bottom: 1px solid #000;
+
+    width: 89%;
+
+    display: inline-block;
+
+}
+
+.main-department .department .choice {
+
+    margin-bottom: 30px;
+
+}
+
+.main-department .department .choice .num{
+
+    font-size: 12px;
+
+    position: relative;
+
+    bottom: 4px;
+
+    margin-bottom: 10px;
+
+    margin-right: 5px;
+
+}
+
+.main-department .department .head-p {
+
+    margin-bottom: 20px;
+
+}
+
+.content .declaration {
+
+    width: 97%;
+
+}
+
+
+
+.content .declaration h1{
+
+    font-size: 44px;
+
+    margin-bottom: 20px;
+
+}
+
+.content .declaration p{
+
+    font-size: 22px;
+
+    line-height: 1.3;
+
+    text-align: justify;
+
+}
+
+
+
+
+
+/*Ali Raza*/
+
+span.selected {
+
+    color: red;
+
+    background-color: yellow;
+
+}
+
+span.name, span.address, span.email, span.mobile, span.passed, span.year, span.roll, span.obtained, span.institute{
+
+    color: red;
+
+    text-align: center;
+
+}
+
+span.underline{
+
+    color: red;
+
+}
+
+td.noboder{
+
+    border: none !important;
+
+}
+
+aside .bar .sub_heading p {
+
+    transform: scale(1, 1.3);
+
+    font-family: sans-serif;
+
+    text-align: left;
+
+    margin-left: 60px;
+
+    font-size: 28px;
+
+}
+
+.picture img{
+
+
+
+    width: 136px;
+
+    height: 160px;
+
+    opacity: 1;
+
+}
+
+.buttons-div{
+
+    position: fixed;
+
+    top: 40%;
+
+    left: 80%;
+
+}
+
+.btn {
+
+    display: inline-block;
+
+    padding: 6px 12px;
+
+    margin-bottom: 0;
+
+    font-size: 14px;
+
+    font-weight: 400;
+
+    line-height: 1.42857143;
+
+    text-align: center;
+
+    white-space: nowrap;
+
+    cursor: pointer;
+
+    border: 1px solid transparent;
+
+    border-radius: 4px;
+
+}
+
+.btn-primary {
+
+    color: #fff;
+
+    font-family: sans-serif;
+
+    background-color: #337ab7;
+
+    border-color: #2e6da4;
+
+    width: 60px;
+
+    font-size: 20px;
+
+    text-decoration: none;   
+
+}
+
+.btn-print {
+    width: 60px;
+    font-size: 20px;
+    margin-top: -11px;
+    position: absolute;
+    color: #fff;
+    background-color: #B29304;
+    border-color: #B29304;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    font-family: sans-serif;
+    padding-left: 8px;
+    padding-right: 18px;
+}
+
+.btn-view{
+
+    width: 60px;
+
+    font-size: 20px;
+
+    color: #fff;
+
+    font-family: sans-serif;
+
+    text-decoration: none;
+
+    background-color: #386902;
+
+     margin-top: 40px;
+
+}
+
+.btn-short{
+
+    width: 137px;
+
+    font-size: 20px;
+
+    color: #fff;
+
+    font-family: sans-serif;
+
+    text-decoration: none;
+
+    background-color: #004812;
+
+}
+
+.btn-upload{
+
+    width: 60px;
+
+    font-size: 20px;
+
+    text-decoration: none;
+
+    background-color: #08a79d;
+
+    color: #fff;
+
+    font-family: sans-serif;
+
+}
+
+.btn-final{
+
+    width: 60px;
+
+    margin-left: 0px;
+
+    font-size: 20px;
+
+    text-decoration: none;
+
+    background-color:#e20808;
+
+    color: #fff;
+
+    font-family: sans-serif;
+
+}
+
+
+aside .bar .main_heading {
+
+    top: 670px;
+
+    left: -492px;
+
+    font-size: 30px;
+
+}
+
+.btn-print {
+
+
+    width: 60px;
+
+    font-size: 20px;
+    
+    margin-top: -11px;
+
+    position: absolute;
+
+    color: #fff;
+
+    background-color: #B29304;
+
+    border-color: #B29304;
+
+    cursor: pointer;
+
+    border: 1px solid transparent;
+
+    border-radius: 4px;
+
+    font-family: sans-serif;
+
+    padding-left: 8px;
+
+    padding-right: 18px;
+
+}
+.box .master {
+    margin-left: 155px;
+    font-size: 14px;
+    transform: scale(2,1.5);
+}
+aside .bar h1 {
+    font-family: sans-serif;
+    transform: scale(1.3, 2);
+    color: #000;
+    font-size: 40px;
+}
+@media print{
+
+    .buttons-div{
+
+        display: none;
+
+    }
+
+
+
+}
+
+
+
+/*Ali Raza*/
